@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gal-bert
+- 👀 I’m interested in Swift and Product Management!
+- 🌱 I’m currently an Apple Developer Academy @Binus C5S1 Student 
