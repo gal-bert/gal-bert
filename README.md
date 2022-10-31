@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @gal-bert
-- 👀 I’m interested in Swift and Product Management!
-- 🌱 I’m currently an Apple Developer Academy @Binus C5S1 Student 
+# 👋 Hi, I’m @gal-bert
 
 <h3 align="center"><a href="https://hud0shnik.github.io/">
-   <img alt="Gregorius Albert" src="https://readme-typing-svg.herokuapp.com/?lines=Gregorius+Albert;Swift+developer&font=JetBrains%20Mono&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Gregorius Albert" src="https://readme-typing-svg.herokuapp.com/?lines=Gregorius+Albert;Swift+developer&font=JetBrains%20Mono&width=280&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
+
+- 👀 I’m interested in Swift and Product Management!
+- 🌱 I’m currently an Apple Developer Academy @Binus C5S1 Student 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gal-bert&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
