@@ -1,7 +1,7 @@
-# 👋 Hi, I’m @gal-bert
+👋 Hi, I’m:
 
 <h3 align="center"><a href="https://hud0shnik.github.io/">
-   <img alt="Gregorius Albert" src="https://readme-typing-svg.herokuapp.com/?lines=Gregorius+Albert;Swift+developer&font=JetBrains%20Mono&width=280&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Gregorius Albert" src="https://readme-typing-svg.herokuapp.com/?lines=Gregorius+Albert;Swift+Developer;Laravel+Developer&font=JetBrains%20Mono&width=280&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 
 - 👀 I’m interested in Swift and Product Management!
