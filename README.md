@@ -5,3 +5,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gal-bert&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gal-bert&theme=vue-dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gal-bert&layout=compact&theme=dark)](https://github.com/galbert)
