@@ -1,11 +1,11 @@
-## 👋 Hello!, I am:
+## 👋 Hello!
 
 <h3 align="center"><a href="https://hud0shnik.github.io/">
-   <img alt="Gregorius Albert" src="https://readme-typing-svg.herokuapp.com/?lines=Gregorius+Albert;A+Swift+Developer;A+Laravel+Enthusiast&font=JetBrains%20Mono&width=280&height=45&color=68C3D4&vCenter=true&size=21"></a>
+<img alt="Gregorius Albert" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Gregorius+Albert;A+Swift+Developer;A+Laravel+Enthusiast&font=JetBrains%20Mono&width=280&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 
-- 👀 I’m interested in Swift and Product Management!
-- 🌱 I’m currently an Apple Developer Academy @Binus C5S1 Student 
+- 👀 Interested in Swift and Product Management!
+- 🌱 Currently an Apple Developer Academy @Binus C5S1 Student
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gal-bert&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,14 +16,21 @@
 ## Tools & Technologies:
 
 <div style="white-space:nowrap;">
-    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
-    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
-    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <br />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+    <img height="35" style="padding-right: 10px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+    <br />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+    <br />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-          
 </div>
 <br/>
 
