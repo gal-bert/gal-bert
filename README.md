@@ -6,4 +6,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gal-bert&theme=vue-dark)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gal-bert"/>
+<img alt="gal-bert Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gal-bert&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true" height="198px"/>
+
