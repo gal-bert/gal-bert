@@ -4,8 +4,8 @@
 <img alt="Gregorius Albert" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Gregorius+Albert;A+Swift+Developer;A+Laravel+Enthusiast&font=JetBrains%20Mono&width=280&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 
-- 👀 Interested in Swift and Product Management!
-- 🌱 Currently an Apple Developer Academy @Binus C5S1 Student
+- 👀 Interested in Swift, Laravel, and Product-Project Management!
+- 🍎 An Apple Developer Academy @Binus C5 Graduate
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gal-bert&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
